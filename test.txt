@@ -1,5 +1,2 @@
 This is my first project in git
-bbbbb
-judsjsd
-jsdjoasjfhjjjjjjjjjjjjjjjjj
-jdfjsj
+test 3rd summit
